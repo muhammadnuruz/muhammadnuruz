@@ -16,7 +16,7 @@ Akhmad Donish Street 20A, 100180, Tashkent, Uzbekistan
 ## 🎓 Education
 
 **PDP Academy**  
-02/2024 - 11/2024
+02/2023 - 11/2023
 
 ## 📜 Certifications
 
