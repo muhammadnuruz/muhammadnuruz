@@ -4,7 +4,7 @@ Tashkent • 📞 +998900689295 • 📧 muhammadnurpdp@gmail.com
 
 ## 👨‍💻 Python Developer
 
-With 1+ years of experience in backend development, I have contributed to the success of Infinity English Academy by implementing efficient and scalable solutions. In just 6 months, I optimized database performance, resulting in increased application speed and performance.
+With 2+ years of experience in backend development, I have contributed to the success of Infinity English Academy by implementing efficient and scalable solutions. In just 6 months, I optimized database performance, resulting in increased application speed and performance.
 
 ## 🏢 Work Experience
 
