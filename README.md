@@ -10,7 +10,7 @@ With 2+ years of experience in backend development, I have contributed to the su
 
 **Infinity English Academy**  
 Akhmad Donish Street 20A, 100180, Tashkent, Uzbekistan  
-01/2024 - Present  
+01/2024 - 09/24  
 **Backend Developer • Internship**
 
 ## 🎓 Education
