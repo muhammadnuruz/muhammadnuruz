@@ -54,6 +54,7 @@ I specialize in API development, database optimization, Telegram bot automation,
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![DRF](https://img.shields.io/badge/-DRF-FF3C50?logo=django&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2B4F60?logo=telegram&logoColor=white&style=flat-square)
 
 ### 📦 Infrastructure & Tools:
