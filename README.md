@@ -1,4 +1,4 @@
-# 👋 Assalomu alaykum! Men Muhammad Nur Suxbatullayev
+# 👋 Hello! I am Muhammad Nur Suxbatullayev
 
 📍 Tashkent, Uzbekistan • 📞 +998 90 068 92 95 • 📧 muhammadnurpdp@gmail.com  
 🎯 GitHub: [github.com/muhammadnuruz](https://github.com/muhammadnuruz)  
