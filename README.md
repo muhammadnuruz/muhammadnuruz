@@ -1,61 +1,100 @@
-# Hello! I'm Muhammad Nur Suxbatullayev
+# 👋 Assalomu alaykum! Men Muhammad Nur Suxbatullayev
 
-Tashkent • 📞 +998900689295 • 📧 muhammadnurpdp@gmail.com
+📍 Tashkent, Uzbekistan • 📞 +998 90 068 92 95 • 📧 muhammadnurpdp@gmail.com  
+🎯 GitHub: [github.com/muhammadnuruz](https://github.com/muhammadnuruz)  
+📸 Instagram: [@themuhammadnur](https://instagram.com/themuhammadnur) | 💬 Telegram: [@TheMuhammadNur](https://t.me/themuhammadnur)
 
-## 👨‍💻 Python Developer
+---
 
-With over 1 year of experience in backend development, I have contributed to the success of Infinity English Academy by implementing efficient and scalable solutions. In just 6 months, I optimized database performance, resulting in increased application speed and performance.
+## 👨‍💻 Backend Developer — Python • Django • FastAPI
 
-## 🏢 Work Experience
+I am a results-driven backend developer with over **1 year of hands-on experience**, passionate about building scalable, secure, and efficient backend systems.  
+I’ve contributed to real-world projects, including leading backend development at **Infinity English Academy**, where I improved system performance and reliability within 6 months.
 
-**Infinity English Academy**  
-Akhmad Donish Street 20A, 100180, Tashkent, Uzbekistan  
-01/2024 - 09/24  
-**Backend Developer • Internship**
+I specialize in API development, database optimization, Telegram bot automation, and scalable microservices using Python and modern tools.
+
+---
+
+## 💼 Experience
+
+### 🏢 Infinity English Academy — Backend Developer (Internship)  
+📍 Tashkent, Uzbekistan | 🗓️ Jan 2024 – Sep 2024
+
+- Built and maintained backend systems for internal and student platforms.
+- Optimized PostgreSQL queries, reducing load times by 40%.
+- Designed and integrated RESTful APIs using Django REST Framework.
+- Developed Telegram automation bots using Aiogram and WebHooks.
+- Implemented Redis caching and Celery for task queues.
+
+---
 
 ## 🎓 Education
 
-**PDP Academy**  
-11/2022 - 10/2023
+**🎓 PDP Academy** — Backend Python Developer  
+🗓️ Nov 2022 – Oct 2023  
+🏅 Full Scholarship Awardee • Top 10% of class performance
+
+**🎓 PDP University** - Software Engineering  
+🗓️ 2025 - Present
+🏅 Full Scholarship Awardee
+---
 
 ## 📜 Certifications
 
-**PDP Academy Certification**
+- ✅ PDP Backend Development Certificate
+- ✅ Advanced Python, Django & DRF Projects
+- ✅ Telegram Bot Mastery with Aiogram
 
-## 🛠️ Skills
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF3C50?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2B4F60?style=for-the-badge&logo=telegram&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Minio](https://img.shields.io/badge/Minio-00A5E0?style=for-the-badge&logo=minio&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OAuth2](https://img.shields.io/badge/OAuth2-673AB7?style=for-the-badge&logo=oauth&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white)
-![Middleware](https://img.shields.io/badge/Middleware-00B4E4?style=for-the-badge&logo=middleware&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+## 🧰 Tech Stack & Skills
 
-## 📈 Stats
+### 👨‍💻 Core Backend:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+![DRF](https://img.shields.io/badge/-DRF-FF3C50?logo=django&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2B4F60?logo=telegram&logoColor=white&style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuruz&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadnuruz&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+### 📦 Infrastructure & Tools:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
+![Minio](https://img.shields.io/badge/-Minio-00A5E0?logo=minio&logoColor=white&style=flat-square)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat-square)
 
-## 🌐 Contact
+### 🧠 Other Skills:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![OAuth2](https://img.shields.io/badge/-OAuth2-673AB7?logo=oauth&logoColor=white&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websockets&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themuhammadnur/)
+---
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/themuhammadnur)
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nur-suxbatullayev-667644294/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadnuruz&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuruz&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+I am open to freelance opportunities, internships, and remote roles related to backend development, bot automation, and API engineering.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/themuhammadnur/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/themuhammadnur)
+
+---
+
+> “Great software is built on small, consistent improvements — and I’m always improving.”  
+> — Muhammad Nur Suxbatullayev
+
