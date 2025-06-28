@@ -1,17 +1,21 @@
-# 👋 Hello! I am Muhammad Nur Suxbatullayev
+# 👋 Hello! I'm Muhammad Nur Suxbatullayev
+
+🎯 Freelance Backend Developer | Python • Django • FastAPI  
+🔧 I design and build secure, scalable APIs, Telegram bots, and automation tools.  
+🌍 Based in Tashkent | Available for remote and freelance opportunities worldwide.
 
 📍 Tashkent, Uzbekistan • 📞 +998 90 068 92 95 • 📧 muhammadnurpdp@gmail.com  
-🎯 GitHub: [github.com/muhammadnuruz](https://github.com/muhammadnuruz)  
+🔗 GitHub: [github.com/muhammadnuruz](https://github.com/muhammadnuruz)  
 📸 Instagram: [@themuhammadnur](https://instagram.com/themuhammadnur) | 💬 Telegram: [@TheMuhammadNur](https://t.me/themuhammadnur)
 
 ---
 
-## 👨‍💻 Backend Developer — Python • Django • FastAPI
+## 👨‍💻 About Me
 
-I am a results-driven backend developer with over **1 year of hands-on experience**, passionate about building scalable, secure, and efficient backend systems.  
-I’ve contributed to real-world projects, including leading backend development at **Infinity English Academy**, where I improved system performance and reliability within 6 months.
+I'm a results-driven backend engineer with over **1 year of experience**, building real-world systems for businesses and startups.  
+Currently leading backend development at **Infinity English Academy**, where I optimized performance and scalability in a production environment.
 
-I specialize in API development, database optimization, Telegram bot automation, and scalable microservices using Python and modern tools.
+With strong expertise in **Python, Django, FastAPI, PostgreSQL, and Docker**, I focus on writing clean, maintainable code and designing API-first architectures that perform at scale.
 
 ---
 
@@ -20,11 +24,11 @@ I specialize in API development, database optimization, Telegram bot automation,
 ### 🏢 Infinity English Academy — Backend Developer (Internship)  
 📍 Tashkent, Uzbekistan | 🗓️ Jan 2024 – Sep 2024
 
-- Built and maintained backend systems for internal and student platforms.
-- Optimized PostgreSQL queries, reducing load times by 40%.
-- Designed and integrated RESTful APIs using Django REST Framework.
-- Developed Telegram automation bots using Aiogram and WebHooks.
-- Implemented Redis caching and Celery for task queues.
+- Developed RESTful APIs using Django REST Framework, used by 1,000+ active users.
+- Reduced database query times by 40% through optimization and indexing.
+- Built Telegram bots with Aiogram for internal automations and CRM workflows.
+- Integrated Redis and Celery for background processing and scheduling.
+- Collaborated closely with frontend and product teams using Agile methodology.
 
 ---
 
@@ -32,48 +36,48 @@ I specialize in API development, database optimization, Telegram bot automation,
 
 **🎓 PDP Academy** — Backend Python Developer  
 🗓️ Nov 2022 – Oct 2023  
-🏅 Full Scholarship Awardee • Top 10% of class performance
 
-**🎓 PDP University** - Software Engineering  
-🗓️ 2025 - Present
-🏅 Full Scholarship Awardee
+**🎓 PDP University** — BSc in Software Engineering  
+🗓️ 2025 – Present  
+🏅 100% Scholarship Recipient
+
 ---
 
 ## 📜 Certifications
 
-- ✅ PDP Backend Development Certificate
-- ✅ Advanced Python, Django & DRF Projects
-- ✅ Telegram Bot Mastery with Aiogram
+- ✅ Certified Backend Developer – PDP Academy  
+- ✅ Advanced Projects in Django, DRF & FastAPI  
+- ✅ Telegram Bot Development with Aiogram
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🧰 Tech Stack
 
-### 👨‍💻 Core Backend:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![DRF](https://img.shields.io/badge/-DRF-FF3C50?logo=django&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Aiogram](https://img.shields.io/badge/-Aiogram-2B4F60?logo=telegram&logoColor=white&style=flat-square)
+### 🔧 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF3C50?style=flat-square&logo=django&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2B4F60?style=flat-square&logo=telegram&logoColor=white)
 
-### 📦 Infrastructure & Tools:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
-![Minio](https://img.shields.io/badge/-Minio-00A5E0?logo=minio&logoColor=white&style=flat-square)
-![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat-square)
+### 🛠 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Minio](https://img.shields.io/badge/Minio-00A5E0?style=flat-square&logo=minio&logoColor=white)
 
-### 🧠 Other Skills:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![OAuth2](https://img.shields.io/badge/-OAuth2-673AB7?logo=oauth&logoColor=white&style=flat-square)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
-![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websockets&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+### 🧠 Other Skills
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-673AB7?style=flat-square&logo=oauth&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=websockets&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -87,15 +91,18 @@ I specialize in API development, database optimization, Telegram bot automation,
 
 ---
 
-## 📬 Contact Me
+## 📬 Let's Connect
 
-I am open to freelance opportunities, internships, and remote roles related to backend development, bot automation, and API engineering.
+I’m open to:
+- 🔹 Freelance projects
+- 🔹 Remote backend roles
+- 🔹 Collaboration with startups
+
+Feel free to reach out!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/themuhammadnur/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/themuhammadnur)
-
 ---
 
 > “Great software is built on small, consistent improvements — and I’m always improving.”  
-> — Muhammad Nur Suxbatullayev
-
+> — *Muhammad Nur Suxbatullayev*
