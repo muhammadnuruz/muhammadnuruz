@@ -1,53 +1,45 @@
 # 👋 Hello! I'm Muhammad Nur Suxbatullayev
 
-🎯 Freelance Backend Developer | Python • Django • FastAPI  
-🔧 I design and build secure, scalable APIs, Telegram bots, and automation tools.  
-🌍 Based in Tashkent | Available for remote and freelance opportunities worldwide.
+### 🎯 Freelance Backend Developer | Python • Django • FastAPI
 
-📍 Tashkent, Uzbekistan • 📞 +998 90 068 92 95 • 📧 muhammadnurpdp@gmail.com  
-🔗 GitHub: [github.com/muhammadnuruz](https://github.com/muhammadnuruz)  
-📸 Instagram: [@themuhammadnur](https://instagram.com/themuhammadnur) | 💬 Telegram: [@TheMuhammadNur](https://t.me/themuhammadnur)
+I specialize in designing and building **secure, scalable APIs, Telegram bots, and automation tools**. Based in Tashkent, Uzbekistan, I'm available for **remote and freelance opportunities worldwide**.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a results-driven backend engineer with over **1 year of experience**, building real-world systems for businesses and startups.  
-Currently leading backend development at **Infinity English Academy**, where I optimized performance and scalability in a production environment.
+I'm a results-driven backend engineer with over **1 year of experience** building robust, real-world systems for businesses and startups.
 
-With strong expertise in **Python, Django, FastAPI, PostgreSQL, and Docker**, I focus on writing clean, maintainable code and designing API-first architectures that perform at scale.
+My expertise lies in **Python, Django, FastAPI, PostgreSQL, and Docker**. I am committed to writing clean, maintainable code and designing API-first architectures that perform efficiently at scale.
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Infinity English Academy — Backend Developer (Internship)  
-📍 Tashkent, Uzbekistan | 🗓️ Jan 2024 – Sep 2024
+### 🏢 Infinity English Academy — Backend Developer (Internship)
+📍 Tashkent, Uzbekistan | 🗓️ January 2024 – September 2024
 
-- Developed RESTful APIs using Django REST Framework, used by 1,000+ active users.
-- Reduced database query times by 40% through optimization and indexing.
-- Built Telegram bots with Aiogram for internal automations and CRM workflows.
-- Integrated Redis and Celery for background processing and scheduling.
-- Collaborated closely with frontend and product teams using Agile methodology.
+* Developed **RESTful APIs using Django REST Framework** that served over 1,000 active users.
+* Achieved a **Reduction in database query times** through comprehensive optimization and indexing strategies.
+* Built **Telegram bots** to automate internal processes and enhance CRM workflows.
+* Integrated **Redis and Celery** for efficient background processing and task scheduling.
+* Collaborated effectively with frontend and product teams, adhering to **Agile methodologies**.
 
 ---
 
 ## 🎓 Education
 
-**🎓 PDP Academy** — Backend Python Developer  
-🗓️ Nov 2022 – Oct 2023  
-
-**🎓 PDP University** — BSc in Software Engineering  
-🗓️ 2025 – Present  
-🏅 100% Scholarship Recipient
+* **PDP University** — BSc in Software Engineering (2025 – Present)
+    * *Recipient of a 100% Scholarship*
+* **PDP Academy** — Backend Python Developer (November 2022 – October 2023)
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Certified Backend Developer – PDP Academy  
-- ✅ Advanced Projects in Django, DRF & FastAPI  
-- ✅ Telegram Bot Development with Aiogram
+* ✅ Certified Backend Developer – PDP Academy
+* ✅ Advanced Projects in Django, DRF & FastAPI
+* ✅ Telegram Bot Development with Aiogram
 
 ---
 
@@ -93,16 +85,21 @@ With strong expertise in **Python, Django, FastAPI, PostgreSQL, and Docker**, I 
 
 ## 📬 Let's Connect
 
-I’m open to:
-- 🔹 Freelance projects
-- 🔹 Remote backend roles
-- 🔹 Collaboration with startups
+I'm actively seeking **freelance projects** and **remote backend roles**, and I'm always open to **collaborating with innovative startups**.
 
-Feel free to reach out!
+Feel free to reach out via:
+
+* **Email:** muhammadnurpdp@gmail.com
+* **Phone:** +998 90 068 92 95
+* **LinkedIn:** [Your LinkedIn Profile Link Here - *Please add this!*]
+* **GitHub:** [github.com/muhammadnuruz](https://github.com/muhammadnuruz)
+* **Telegram:** [@TheMuhammadNur](https://t.me/themuhammadnur)
+* **Instagram:** [@themuhammadnur](https://instagram.com/themuhammadnur)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/themuhammadnur/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/themuhammadnur)
+
 ---
 
-> “Great software is built on small, consistent improvements — and I’m always improving.”  
+> “Great software is built on small, consistent improvements — and I’m always improving.”
 > — *Muhammad Nur Suxbatullayev*
