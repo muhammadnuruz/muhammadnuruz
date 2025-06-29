@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Muhammad Nur Suxbatullayev
 
 ### 🎯 Freelance Backend Developer | Python • Django • FastAPI
-
+ 
 I specialize in designing and building **secure, scalable APIs, Telegram bots, and automation tools**. Based in Tashkent, Uzbekistan, I'm available for **remote and freelance opportunities worldwide**.
 
 ---
