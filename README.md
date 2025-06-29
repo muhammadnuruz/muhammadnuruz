@@ -91,7 +91,6 @@ Feel free to reach out via:
 
 * **Email:** muhammadnurpdp@gmail.com
 * **Phone:** +998 90 068 92 95
-* **LinkedIn:** [Your LinkedIn Profile Link Here - *Please add this!*]
 * **GitHub:** [github.com/muhammadnuruz](https://github.com/muhammadnuruz)
 * **Telegram:** [@TheMuhammadNur](https://t.me/themuhammadnur)
 * **Instagram:** [@themuhammadnur](https://instagram.com/themuhammadnur)
