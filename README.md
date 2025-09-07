@@ -83,22 +83,5 @@ My expertise lies in **Python, Django, FastAPI, PostgreSQL, and Docker**. I am c
 
 ---
 
-## 📬 Let's Connect
-
-I'm actively seeking **freelance projects** and **remote backend roles**, and I'm always open to **collaborating with innovative startups**.
-
-Feel free to reach out via:
-
-* **Email:** muhammadnurpdp@gmail.com
-* **Phone:** +998 90 068 92 95
-* **GitHub:** [github.com/muhammadnuruz](https://github.com/muhammadnuruz)
-* **Telegram:** [@TheMuhammadNur](https://t.me/themuhammadnur)
-* **Instagram:** [@themuhammadnur](https://instagram.com/themuhammadnur)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/themuhammadnur/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/themuhammadnur)
-
----
-
 > “Great software is built on small, consistent improvements — and I’m always improving.”
 > — *Muhammad Nur Suxbatullayev*
