@@ -23,51 +23,45 @@
 
 ---
 
-I design and build production software — not prototypes. Systems that handle real load, real users, real edge cases.
-
-My work spans backend APIs, AI integrations, and full-stack web apps. I own features end to end: schema design, API contracts, auth, background jobs, and deployment on Linux.
-
-**1,800+ users** across shipped systems. **100% merit scholarship** at PDP University, Tashkent.
-
----
-
-**Core stack**
-
-```
-Python · Django · FastAPI · PostgreSQL · pgvector · Redis · Celery · Docker · Nginx
-OpenAI API · LangChain · RAG pipelines · JWT · RBAC · Linux VPS
-```
-
----
-
-**What I work on**
-
-Backend architecture from scratch — schema design, API contracts, auth, background jobs, deployment. I own the full lifecycle: requirements to production.
-
-AI integrations: RAG systems over private knowledge bases, vector search with pgvector and ChromaDB, Telegram bots backed by LLMs.
-
-Recent work has been Python-heavy but I've also shipped Node.js/Express systems when the problem called for it.
-
----
-
 <div align="center">
 
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=muhammadnuruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs&rank_icon=github&hide_title=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuruz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,shell"/>
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2B4F60?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadnuruz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadnuruz&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
