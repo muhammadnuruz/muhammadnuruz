@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Nur&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%E2%80%94%20Python%20%7C%20AI%20%7C%20Systems&descSize=17&descAlignY=58&descColor=a0aec0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Nur&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%94%20Python%20%7C%20AI%20%7C%20Systems&descSize=17&descAlignY=58&descColor=a0aec0"/>
 </div>
 
 <br/>
@@ -23,9 +23,9 @@
 
 ---
 
-I build backend systems and ship them. Not side projects — production software that handles real load, real users, real edge cases.
+I design and build production software — not prototypes. Systems that handle real load, real users, real edge cases.
 
-Currently: freelance backend work + running **Vakilim AI**, an AI SaaS platform serving education centers in Uzbekistan. It does retrieval-augmented generation over private document bases, lead capture, and billing — running in production with real paying clients.
+My work spans backend APIs, AI integrations, and full-stack web apps. I own features end to end: schema design, API contracts, auth, background jobs, and deployment on Linux.
 
 **1,800+ users** across shipped systems. **100% merit scholarship** at PDP University, Tashkent.
 
